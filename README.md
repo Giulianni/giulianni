@@ -2,8 +2,9 @@
 <!--
 **Giulianni/giulianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning Back End speacialist. 
-- 😄 Pronouns: She/They
+- 🌱 I’m currently learning Back End Speacialty and English. 
+- 😄 Pronouns: She/Her/They
+- 🔮 Portuguese/Spanish/English
 
 <div align="center">
   <a href="https://github.com/Giulianni">
