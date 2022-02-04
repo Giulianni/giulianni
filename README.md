@@ -11,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giulianni&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianni&layout=compact&langs_count=7&theme=jolly"/>
 </div>
+ 
+  ### Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Giu-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Giu-Sping" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
