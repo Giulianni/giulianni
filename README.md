@@ -33,7 +33,7 @@
   <img align="center" alt="Giu-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   
   
-  <img align="right" alt="Yoda-gif" height="150" style="border-radius:50px;"  src="https://i0.wp.com/media0.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
+  <img align="right" alt="Yoda-gif" height="120" style="border-radius:50px;"  src="https://i0.wp.com/media0.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
 </div>
   
   ##
