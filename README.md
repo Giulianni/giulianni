@@ -13,8 +13,12 @@
  
   ### Stack
 <div style="display: inline_block"><br>
-  <img align="center" alt="Giu-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Giu-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+  <img align="center" alt="Giu-Azure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg">
+  <img align="center" alt="Giu-K8S" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg">
   <img align="center" alt="Giu-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Giu-Terraform" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg">
+  <img align="center" alt="Giu-Grafana" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg">
   <img align="center" alt="Giu-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Giu-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Giu-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
